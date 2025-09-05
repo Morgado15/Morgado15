@@ -27,5 +27,13 @@
 - **[Sistema de Prevenção de Incêndios](#)**  
   Integra IA e sistema de controle PI para acionar bomba de água em áreas afetadas.  
 
-- **[Gerenciamento de Peças com Defeitos](Java)**  
-  Sistema em Java com MySQL para cadastro e controle de peças defeituosas. 
+- **[Gerenciamento de Peças com Defeitos](https://www.linkedin.com/posts/maria-clara-morgado-couto-2856a5279_java-poo-mysql-activity-7305729747643199488-idtj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPpZUUBKDAiTuxCr9-OfvWK_lfP3doYwp8)**  
+  ### ⚙️ Tecnologias utilizadas  
+- **Java** com Programação Orientada a Objetos (P.O.O.)  
+- **MySQL** para gerenciamento do banco de dados  
+- **Interface gráfica** para uso intuitivo  
+
+### 🎯 Objetivos do sistema  
+- 📦 Registrar defeitos de forma estruturada, evitando perda de informações  
+- 📊 Padronizar e centralizar dados para análise e rastreabilidade  
+- ⚡ Agilizar a tomada de decisão na linha de produção com informações organizadas
