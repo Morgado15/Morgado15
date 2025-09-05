@@ -25,13 +25,11 @@
   Aplicativo para armazenar dados e fotos em galerias específicas.  
 
 - **[Sistema de Prevenção de Incêndios](https://www.linkedin.com/posts/maria-clara-morgado-couto-2856a5279_cidadesinteligentes-tecnologia-inteligenciaartificial-activity-7264791442370285569-ZEK-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPpZUUBKDAiTuxCr9-OfvWK_lfP3doYwp8)**  
-  Integra IA e sistema de controle PI para acionar bomba de água em áreas afetadas.  
+      O sistema combina *inteligência artificial*, *sensores avançados* e *sistemas de controle* para monitorar variáveis críticas em tempo real e atuar na *prevenção de incêndios*, acionando automaticamente mecanismos de resposta quando detecta risco iminente.  
 
   <details>
     <summary>🔍 Detalhes do projeto</summary>
-    **Descrição:**  
-    O sistema combina **inteligência artificial**, **sensores avançados** e **sistemas de controle** para monitorar variáveis críticas em tempo real e atuar na **prevenção de incêndios**, acionando automaticamente mecanismos de resposta quando detecta risco iminente.  
-
+  
     **Tecnologias e recursos utilizados:**  
     - Sensores de **temperatura**, **umidade**, **gás** e **chama** para monitoramento contínuo  
     - **IA** para análise de dados e detecção de padrões de risco  
@@ -50,8 +48,6 @@
 
   <details>
     <summary>🔍 Detalhes do projeto</summary>
-
-    Protótipo desenvolvido no **2º semestre de 2024** em colaboração com **Gabriela Silva**, **Maria Heloísa dos Santos**, **Richard Queiroz** e **Isabele Agostini**.  
 
     **Tecnologias utilizadas:**  
     - Java com Programação Orientada a Objetos (P.O.O.)  
