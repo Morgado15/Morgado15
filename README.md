@@ -1,4 +1,4 @@
-# Olá, eu sou Maria Clara 👋  
+# 👋 Olá, eu sou Maria Clara   
 
 🎓 **Estudante de Engenharia de Computação** | 💻 **Apaixonada por Tecnologia e Inovação**  
 
