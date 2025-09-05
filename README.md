@@ -24,8 +24,26 @@
 - **[Aplicativo de Cadastro Pessoal e Médico](MIT App inventor)**  
   Aplicativo para armazenar dados e fotos em galerias específicas.  
 
-- **[Sistema de Prevenção de Incêndios](#)**  
+- **[Sistema de Prevenção de Incêndios](https://www.linkedin.com/posts/maria-clara-morgado-couto-2856a5279_cidadesinteligentes-tecnologia-inteligenciaartificial-activity-7264791442370285569-ZEK-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPpZUUBKDAiTuxCr9-OfvWK_lfP3doYwp8)**  
   Integra IA e sistema de controle PI para acionar bomba de água em áreas afetadas.  
+
+  <details>
+    <summary>🔍 Detalhes do projeto</summary>
+    **Descrição:**  
+    O sistema combina **inteligência artificial**, **sensores avançados** e **sistemas de controle** para monitorar variáveis críticas em tempo real e atuar na **prevenção de incêndios**, acionando automaticamente mecanismos de resposta quando detecta risco iminente.  
+
+    **Tecnologias e recursos utilizados:**  
+    - Sensores de **temperatura**, **umidade**, **gás** e **chama** para monitoramento contínuo  
+    - **IA** para análise de dados e detecção de padrões de risco  
+    - Integração com **página web** para visualização em tempo real  
+    - **Sistema de controle PI** para acionar bomba de água automaticamente em caso de risco  
+
+    **Principais objetivos:**  
+    - 🌐 Criar uma solução inovadora para **cidades inteligentes**  
+    - 🔥 Prevenir desastres com resposta rápida e automatizada  
+    - 🤖 Integrar **IA e automação** para maior eficiência e segurança  
+  </details>
+
 
 - **[Gerenciamento de Peças com Defeitos](https://www.linkedin.com/posts/maria-clara-morgado-couto-2856a5279_java-poo-mysql-activity-7305729747643199488-idtj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPpZUUBKDAiTuxCr9-OfvWK_lfP3doYwp8)**  
   Sistema em Java com MySQL para cadastro e controle de peças defeituosas.  
