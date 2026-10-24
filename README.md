@@ -13,9 +13,9 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas  
-- **Linguagens:** Java, Python, C
-- **Banco de Dados:** SQL, MySQL
-- **Ferramentas:** Git, GitHub, VS Code, Power Automate, Power Apps
+- **Linguagens:** Power FX, DAX, R, TypeScript, React
+- **Banco de Dados:** Dataverse, SQL Server, MySQL
+- **Ferramentas:** Power Apps, Power Automate, Power BI, git, GitHub, VS Code
 - **Outros:** Automação, Controle de Processos, IA  
 
 ---
